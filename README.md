@@ -1,3 +1,4 @@
+HEAD
 # TravelSurveyApp
 
 Lightweight Expo React Native app to collect short travel surveys from users and let admins review submissions.
@@ -40,3 +41,6 @@ TravelSurveyApp is a small mobile app built with Expo and React Native. It provi
 ## Notes
 - Credentials in login screens are temporary (hardcoded). Replace with real auth for production.
 - Data is stored locally; migrate to a backend for persistence across devices.
+# Travel-Mobile-App
+An AI-powered travel and tourism mobile application developed for Smart India Hackathon (SIH) 2025, providing personalized trip planning, route optimization, destination discovery, and real-time travel assistance.
+a24564d7f2bf996858911be2bf0af4f753cb36d0
